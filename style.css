@@ -1,0 +1,109 @@
+@import url(sbros.css);
+*{
+    box-sizing: border-box;
+}
+.firstslide{
+    height: 700px;
+    width: 100%;
+    background-image: url(../img/fon.png);
+    padding-top: 46px;
+
+}
+.zag{
+    margin-left: 241px;
+    max-width: 891px;
+    height: 36px;
+    display: flex;
+    justify-content: space-between;
+}
+.dream{
+    font-family: 'Montserrat';
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: flex-end;
+color: #FFFFFF;
+margin-top: 0px;
+max-height: 24px;
+}
+.reg{
+    width: 153px;
+    display: flex;
+    max-height: 36px;
+    justify-content: space-between;
+}
+.log{
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;    
+    display: flex;
+    align-items: flex-end;
+    color: #FFFFFF;
+    max-width: 44px;
+margin-top: auto;
+margin-bottom: auto;
+
+}
+.sign{
+   max-height: 36px;
+max-width: 90px;border: 2px solid #FFFFFF;
+border-radius: 40px;
+}
+
+.signup{
+    width: 55px; 
+    height: 17px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;margin-left: 18px;margin-top: 10px;
+    align-items: flex-end;
+    color: #FFFFFF;
+}
+.bignap{
+    font-family: 'Montserrat';
+font-weight: 700;
+font-size: 52px;
+line-height: 63px;
+text-align: center;
+color: #FFFFFF;
+width: 470px;
+height: 126px;
+margin-top: 147.5px;
+margin-left: auto;
+margin-right: auto;
+}
+.middlenap{
+    margin: 28.5px auto 0px auto;
+    width: 395px;
+    height: 25px;
+    font-family: 'Roboto';
+font-weight: 300;
+font-size: 24px;
+line-height: 24px;
+align-items: flex-end;
+text-align: center;
+
+color: #F7F3F2;
+
+}
+.rednap{
+    width: 225px;
+height: 40px;
+background: #FF4E50;
+border-radius: 40px;
+font-family: 'Montserrat';
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+align-items: flex-end;
+text-align: center;
+color: #FFFFFF;
+padding-top: 12px;
+margin-top: 33px;
+margin-left: auto;
+margin-right: auto;
+}
